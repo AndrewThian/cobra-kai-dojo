@@ -1,5 +1,7 @@
 # cobra-kai-dojo
 
-## Starting a new dojo
+### generate a new sandbox for kata
 
-1. create a new folder via 
+```
+npm run plop
+```
