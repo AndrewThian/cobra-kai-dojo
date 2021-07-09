@@ -1,4 +1,4 @@
----
+****---
 title: "Bank OCR"
 draft: false
 date: "2011-02-22T09:45:00"
