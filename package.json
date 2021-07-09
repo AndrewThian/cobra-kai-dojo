@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/AndrewThian/cobra-kai-dojo/issues"
   },
-  "homepage": "https://github.com/AndrewThian/cobra-kai-dojo#readme"
+  "homepage": "https://github.com/AndrewThian/cobra-kai-dojo#readme",
+  "engine": {
+    "node": "15.6.0"
+  }
 }
