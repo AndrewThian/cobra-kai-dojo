@@ -1,6 +1,5 @@
 import { skiSlopes } from "./skiSlopes";
 import fs from 'fs'
-import path from 'path'
 
 // ArrayBuffer
 const data = fs.readFileSync(__dirname + '/../map.txt', { encoding: 'utf-8' })
