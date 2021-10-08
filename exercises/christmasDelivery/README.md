@@ -50,7 +50,7 @@ But the delivery elves are an expensive resource so we’d prefer the requests t
 
 You will need to devise a strategy to allow Mrs Claus to deliver presents by family when possible.
 
-User Story 4
+## User Story 4
 Santa has just received news that some families have been very naughty during the holiday period. He wants to be able to cancel presents for these families by telling Mrs Claus to discard their presents. Sleigh Interface
 
 Santa has provided this interface to represent his Sleigh.
