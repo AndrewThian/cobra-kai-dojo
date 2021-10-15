@@ -1,6 +1,6 @@
 # Kata: christmasDelivery
 
-// https://codingdojo.org/kata/christmas-delivery/
+https://codingdojo.org/kata/christmas-delivery/
 
 Kata
 Due to huge population growth in the world, Santa Claus is having to change his existing process.
